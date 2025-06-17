@@ -1,7 +1,18 @@
 import { Card, CardContent } from "@/components/ui/card";
-import { Zap, BarChart3, DollarSign, Check } from "lucide-react";
+import { Zap, BarChart3, Lightbulb, Check } from "lucide-react";
 
 const services = [
+  {
+    icon: Lightbulb,
+    title: "Venture Design",
+    description: "Strategic venture design services to structure and optimize your startup for maximum growth potential and investor appeal.",
+    features: [
+      "Venture architecture",
+      "Strategic planning",
+      "Investment readiness",
+      "Growth optimization"
+    ]
+  },
   {
     icon: Zap,
     title: "Fast MVP Development",
@@ -22,17 +33,6 @@ const services = [
       "Market analysis",
       "Revenue projections",
       "Business plan creation"
-    ]
-  },
-  {
-    icon: DollarSign,
-    title: "Cap Table Management with Venture Design",
-    description: "Professional capitalization table setup and management to ensure proper equity distribution and compliance from day one.",
-    features: [
-      "Equity structuring",
-      "Investor relations",
-      "Legal compliance",
-      "Documentation"
     ]
   }
 ];
