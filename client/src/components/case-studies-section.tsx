@@ -20,7 +20,7 @@ const caseStudies = [
   },
   {
     title: "NitHub",
-    description: "Municipal innovation program served 50,000+ citizens with new digital services in first year.",
+    description: "Unilag innovation program launch MSME research into viable MVP.",
     image: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=200",
     metric: "50K+ Users",
     metricColor: "bg-purple-100 text-purple-800",
