@@ -20,21 +20,13 @@ export default function HeroSection() {
             <p className="text-xl text-slate-600 mt-6 leading-relaxed">
               LaunchForge provides startup-as-a-service solutions for accelerators, corporate innovation labs, and government hubs. We build fast MVPs, handle business modeling, and manage cap tables so you can focus on what matters most.
             </p>
-            <div className="mt-8 flex flex-col sm:flex-row gap-4">
+            <div className="mt-8">
               <Button 
                 onClick={scrollToContact}
                 size="lg"
                 className="bg-primary text-white hover:bg-secondary-brand shadow-lg text-lg px-8 py-4"
               >
                 Start Your Project
-              </Button>
-              <Button 
-                onClick={scrollToContact}
-                variant="outline"
-                size="lg"
-                className="border-2 border-primary text-primary hover:bg-primary hover:text-white text-lg px-8 py-4"
-              >
-                Schedule Demo
               </Button>
             </div>
             <div className="mt-12 flex items-center space-x-8">

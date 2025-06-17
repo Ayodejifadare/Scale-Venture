@@ -15,24 +15,24 @@ const solutions = [
   },
   {
     title: "Corporate Innovation Labs",
-    description: "Transform your internal innovation initiatives with enterprise-grade MVP development and seamless data integration capabilities.",
+    description: "Co-founding services to build new complementary products that expand your corporate innovation portfolio and market reach.",
     image: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=300",
     features: [
-      "Enterprise system integration",
-      "Compliance and security frameworks",
-      "Internal innovation processes",
-      "C-suite reporting and analytics"
+      "Co-founding services",
+      "Complementary product development",
+      "Corporate venture building",
+      "Strategic product expansion"
     ]
   },
   {
     title: "Government & NGO Hubs",
-    description: "Drive public sector innovation with transparent, accountable MVP development that serves citizens and communities effectively.",
+    description: "Startup-as-a-service to support grant portfolio startups and research R&D with comprehensive development and validation services.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=300",
     features: [
+      "Grant portfolio startup support",
+      "Research R&D development",
       "Public sector compliance",
-      "Citizen-centered design",
-      "Transparency and accountability",
-      "Community impact measurement"
+      "Innovation program management"
     ]
   }
 ];
