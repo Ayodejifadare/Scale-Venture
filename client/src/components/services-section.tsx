@@ -5,12 +5,12 @@ const services = [
   {
     icon: Lightbulb,
     title: "Venture Design",
-    description: "Strategic venture design services to structure and optimize your startup for maximum growth potential and investor appeal.",
+    description: "Where concepts and ideas are hatched, tested, and validated to achieve problem-solution fit and identify your MVP users.",
     features: [
-      "Venture architecture",
-      "Strategic planning",
-      "Investment readiness",
-      "Growth optimization"
+      "Concept validation",
+      "Problem-solution fit",
+      "MVP user identification",
+      "Idea testing & refinement"
     ]
   },
   {
