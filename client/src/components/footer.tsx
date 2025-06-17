@@ -3,7 +3,7 @@ import { Twitter, Linkedin, Instagram } from "lucide-react";
 const services = [
   "MVP Development",
   "Business Modeling", 
-  "Cap Table Management",
+  "Cap Table Management with Venture Design",
   "Technical Integration"
 ];
 

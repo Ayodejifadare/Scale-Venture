@@ -26,7 +26,7 @@ const services = [
   },
   {
     icon: DollarSign,
-    title: "Cap Table Management",
+    title: "Cap Table Management with Venture Design",
     description: "Professional capitalization table setup and management to ensure proper equity distribution and compliance from day one.",
     features: [
       "Equity structuring",
