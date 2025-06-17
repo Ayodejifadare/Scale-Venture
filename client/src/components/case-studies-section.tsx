@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge";
 
 const caseStudies = [
   {
-    title: "TechAccel Partners",
+    title: "PAPDIS",
     description: "Leading accelerator increased cohort success rate by 40% using our rapid MVP development program.",
     image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=200",
     metric: "40% Increase",
@@ -11,7 +11,7 @@ const caseStudies = [
     type: "Accelerator"
   },
   {
-    title: "Fortune 500 Corp",
+    title: "Nest360",
     description: "Global corporation launched 5 internal innovations in 6 months, reducing time-to-market by 60%.",
     image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=200",
     metric: "60% Faster",
@@ -19,7 +19,7 @@ const caseStudies = [
     type: "Corporate"
   },
   {
-    title: "City Innovation Hub",
+    title: "NitHub",
     description: "Municipal innovation program served 50,000+ citizens with new digital services in first year.",
     image: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=200",
     metric: "50K+ Users",
