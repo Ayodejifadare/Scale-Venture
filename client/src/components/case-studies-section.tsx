@@ -20,11 +20,11 @@ const caseStudies = [
   },
   {
     title: "NitHub",
-    description: "Unilag innovation program launch MSME research into viable MVP.",
+    description: "University of Lagos innovation hub successfully transformed MSME research concepts into market-ready MVPs through our venture design and development framework.",
     image: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&h=200",
-    metric: "50K+ Users",
+    metric: "Research to MVP",
     metricColor: "bg-purple-100 text-purple-800",
-    type: "Government"
+    type: "University Hub"
   }
 ];
 
